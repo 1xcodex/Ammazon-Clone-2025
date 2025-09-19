@@ -3,9 +3,9 @@ import classes from "./Header.module.css";
 import { CiLocationOn } from "react-icons/ci";
 import { IoSearch } from "react-icons/io5";
 import { BiCart } from "react-icons/bi";
-// import LowerHeader from "./LowerHeader";
+import LowerHeader from "./LowerHeader";
 import { Link } from "react-router-dom";
-// import { DataContext } from "../DataProvider/DataProvider";
+import { DataContext } from "../DataProvider/DataProvider";
 // import { auth } from "../../Utility/firebase";
 
 function Header() {

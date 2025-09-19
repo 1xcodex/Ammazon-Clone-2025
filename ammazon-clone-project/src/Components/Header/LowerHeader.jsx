@@ -1,6 +1,6 @@
 import React from "react";
 import { IoMenu } from "react-icons/io5";
-import classes from "./header.module.css";
+import classes from "./Header.module.css";
 
 function LowerHeader() {
   return (
