@@ -44,7 +44,7 @@ import Results from "./Pages/Results/Results";
 import ProductDetail from "./Pages/ProductDetail/ProductDetail";
 function Routering() {
   return (
-    <Router>
+    <Router basename="/Ammazon-Clone-2025">
       <Routes>
         <Route path="/" element={<Landing />} />
         {/* <Route path="/auto" element={<SignIn />} /> */}
